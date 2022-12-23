@@ -13,7 +13,7 @@ Site contains Horiseon Page with multiple created links to the same page with op
 Current photo of site below image
 ![image](https://user-images.githubusercontent.com/107505824/209283491-bb5454ef-b54a-4541-8686-c26b1aa02a41.png)
 
-Link Below https://snowman271.github.io/Challenge-1-/
+Link Below http://challangewebsite.guthub.io/
 
 Changed Some of the repeat css code and symantics to shorten and better organize the code snippet
 

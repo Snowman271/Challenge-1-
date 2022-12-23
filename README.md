@@ -13,3 +13,8 @@ Current photo of site below
 
 Link Below
 http://127.0.0.1:5501/challange%201/index.html#online-reputation-management
+
+Changed Some of the repeat css code and symantics to shorten and better organize the code
+snippet
+
+Added sections 
